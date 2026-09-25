@@ -403,3 +403,4 @@ tappx.com, q977c586, DIRECT, 9f375a07da0318ec
 zmaticoo.com, 5135195, RESELLER
 ayetstudios.com, AYETSTUDIOS, DIRECT
 ayetstudios.com, PL-23807, DIRECT
+chartboost.com, 6ab681adb765cd81f78e90a3, DIRECT
